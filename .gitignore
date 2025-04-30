@@ -1,0 +1,20 @@
+# Catkin build artifacts
+build/
+devel/
+.catkin_tools/
+.catkin_workspace
+
+# ROS logs
+log/
+logs/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
